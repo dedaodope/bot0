@@ -2,7 +2,7 @@
 pkg upgrade
 cd
 git clone https://github.com/dedaodope/bot0
-clear
+
 cd ./bot0
 bash install.sh
 cd
